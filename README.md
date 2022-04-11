@@ -7,7 +7,7 @@ Learning to develop an API with Spring Boot to manage meeting rooms, using Sprin
 
 ## clone the repository 
 
-no terminal use o comando `git clone https://github.com/njtsb1/Meet-Manager.git`
+no terminal use o comando `git clone https://github.com/njtsb1/Meeting_Room_Manager.git`
 
 # Backend
 
