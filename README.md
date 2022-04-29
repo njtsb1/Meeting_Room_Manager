@@ -44,3 +44,6 @@ door -> [localhost:4200](http://localhost:4200/)
 ## Run tests end-to-end
 
 `ng e2e` run end-to-end test via [Protractor](http://www.protractortest.org/).
+
+[LICENSE](./LICENSE)
+
