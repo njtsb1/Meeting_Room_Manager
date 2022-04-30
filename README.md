@@ -2,7 +2,7 @@ Daily learning
 
 # Create your meeting room manager with Java and Angular
 
-Project developed at Digital Innovation One's Bootcamp Java Developer with guidance from specialist Kamila Santos. 
+Project developed at Digital Innovation One's Bootcamp Java Developer with guidance from specialist [Kamila Santos](https://www.linkedin.com/in/kamila-santos-oliveira/ "Kamila Santos"). 
 Learning to develop an API with Spring Boot to manage meeting rooms, using Spring Data for data persistence and the H2 in-memory database, and the Front End SPA written in Angular to consume the API.
 
 ## clone the repository 
